@@ -72,3 +72,4 @@ except KeyboardInterrupt:
 	print('\n\rKeyboard interrtupt')	
 
 
+" its a test of git in raspberry pi"
